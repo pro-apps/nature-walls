@@ -1,40 +1,299 @@
 {
-   "wallpapers": [
-      {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
-      }
-   ]
+  "wallpapers": [
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/QLV107X.jpg",
+      "name": "Wall_01"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/ea2B0N3.png",
+      "name": "Wall_02"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/zdaILAI.png",
+      "name": "Wall_03"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/tORSglJ.jpg",
+      "name": "Wall_04"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/WNJva4T.jpg",
+      "name": "Wall_05"
+    },
+    {
+      "author": "Josetx221",
+      "url": "http://i.imgur.com/eI2rTDU.jpg",
+      "name": "Wall_06"
+    },
+    {
+      "author": "Josetx221",
+      "url": "http://i.imgur.com/bR9GkUJ.jpg",
+      "name": "Wall_07"
+    },
+    {
+      "author": "Josetx221",
+      "url": "http://i.imgur.com/RQnJ3e7.jpg",
+      "name": "Wall_08"
+    },
+    {
+      "author": "Alessio Edit",
+      "url": "http://i.imgur.com/U4omIWO.jpg",
+      "name": "Wall_09"
+    },
+    {
+      "author": "Alessio Edit",
+      "url": "http://i.imgur.com/5xQmDmd.jpg",
+      "name": "Wall_10"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/bgSC5sE.jpg",
+      "name": "Wall_11"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/16mKhoS.jpg",
+      "name": "Wall_12"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/foesKDT.jpg",
+      "name": "Wall_13"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/HKuEttn.jpg",
+      "name": "Wall_14"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/Ot9WMov.jpg",
+      "name": "Wall_15"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/4kyTOQm.jpg",
+      "name": "Wall_16"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/xn0LMo7.jpg",
+      "name": "Wall_17"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/8XJCgME.jpg",
+      "name": "Wall_18"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/kNbJEkH.jpg",
+      "name": "Wall_19"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/RQn55kB.jpg",
+      "name": "Wall_20"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/Tdt6KaU.jpg",
+      "name": "Wall_21"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/I7JB0qz.jpg",
+      "name": "Wall_22"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/9CsfclU.jpg",
+      "name": "Wall_23"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/qooXJwD.png",
+      "name": "Wall_24"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/pFVrxaY.jpg",
+      "name": "Wall_25"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/PoM2yYU.jpg",
+      "name": "Wall_26"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/pCdJPzs.jpg",
+      "name": "Wall_27"
+    },
+    {
+      "author": "Nick Nice",
+      "url": "http://i.imgur.com/xZ8nidB.jpg",
+      "name": "Wall_28"
+    },
+    {
+      "author": "Nico Ivarra",
+      "url": "http://i.imgur.com/EYDD3TZ.jpg",
+      "name": "Wall_29"
+    },
+    {
+      "author": "Nico Ivarra",
+      "url": "http://i.imgur.com/4AhNX9k.jpg",
+      "name": "Wall_30"
+    },
+    {
+      "author": "Nico Ivarra",
+      "url": "http://i.imgur.com/nIZFiTp.png",
+      "name": "Wall_31"
+    },
+    {
+      "author": "Nico Ivarra",
+      "url": "http://i.imgur.com/iPe2TZh.jpg",
+      "name": "Wall_32"
+    },
+    {
+      "author": "Nico Ivarra",
+      "url": "http://i.imgur.com/aPiu9u3.jpg",
+      "name": "Wall_33"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/wNuvH0q.jpg",
+      "name": "Wall_34"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/ImlxaFm.jpg",
+      "name": "Wall_35"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/pJmF57g.jpg",
+      "name": "Wall_36"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/U4kiloK.png",
+      "name": "Wall_37"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/k0wtlgM.jpg",
+      "name": "Wall_38"
+    },
+    {
+      "author": "NoTag",
+      "url": "http://i.imgur.com/ny2oEVX.jpg",
+      "name": "Wall_39"
+    },
+    {
+      "author": "Zan Cerne",
+      "url": "http://i.imgur.com/euKX4N8.png",
+      "name": "Wall_40"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/fpUc7XP.jpg",
+      "name": "Wall_41"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/8xN0kxk.png",
+      "name": "Wall_42"
+    },
+    {
+      "author": "John Carter",
+      "url": "http://i.imgur.com/YHIR2BQ.png",
+      "name": "Wall_43"
+    },
+    {
+      "author": "Alex Chaves",
+      "url": "http://i.imgur.com/efr0aOR.jpg",
+      "name": "Wall_44"
+    },
+    {
+      "author": "Lucas Rodriguez",
+      "url": "http://i.imgur.com/ZhHFAdF.jpg",
+      "name": "Wall_45"
+    },
+    {
+      "author": "Lucas Rodriguez",
+      "url": "http://i.imgur.com/gMCXPfX.jpg",
+      "name": "Wall_46"
+    },
+    {
+      "author": "Thom Freitas",
+      "url": "http://i.imgur.com/dR00zwD.png",
+      "name": "Wall_47"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/tEQqf06.jpg",
+      "name": "Wall_48"
+    },
+    {
+      "author": "Nat Heise",
+      "url": "http://i.imgur.com/5wc04Cs.jpg",
+      "name": "Wall_49"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/ZXzyAGm.jpg",
+      "name": "Wall_50"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/CsOMBlM.jpg",
+      "name": "Wall_51"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/FUjFQ9r.jpg",
+      "name": "Wall_52"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/LTXrmQB.jpg",
+      "name": "Wall_53"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/CUFKJTv.jpg",
+      "name": "Wall_54"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/LSVTjgE.jpg",
+      "name": "Wall_55"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/0AVcnbT.jpg",
+      "name": "Wall_56"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/80WwDZw.jpg",
+      "name": "Wall_57"
+    },
+    {
+      "author": "Nate Heise",
+      "url": "http://i.imgur.com/kRimlcO.jpg",
+      "name": "Wall_58"
+    },
+    {
+      "author": "JosetX",
+      "url": "http://i.imgur.com/nkm9x1x.jpg",
+      "name": "Wall_59"
+    }
+  ]
 }
